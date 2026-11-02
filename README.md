@@ -44,6 +44,7 @@
 - 🗄️ SQL Queries and Database Analysis
 - 📉 Dashboard Creation using Power BI
 - 🤖 Basic Machine Learning
+- 🧠 Learning Generative AI (GenAI) and exploring its real-world applications
 
 ### 🤝 Connect With Me
 
